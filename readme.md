@@ -4,6 +4,8 @@
 
 #### By _**telpuhova**_
 
+https://telpuhova.github.io/wikipedia-clone/
+
 ## Description
 
 _Wikipedia main page recreated with bootstrap._
