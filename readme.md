@@ -21,4 +21,4 @@ HTML,CSS, Bootstrap
 
 ### License
 
-Copyright (c) 2017 **telpuhova**
+Copyright (c) 2017 Natalia Telpukhova
